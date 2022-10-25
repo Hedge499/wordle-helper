@@ -1,0 +1,16 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+body {
+    background-color: #111;
+    color: #999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: aqua;
+}
